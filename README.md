@@ -5,3 +5,4 @@
 [<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/3X/9/4/947164a4774c8d55ef04dac214aefba7a1e41fc0.png" width="16"/> DevForum Profile](https://devforum.roblox.com/u/General_Scripter)
 
 ![](https://github-readme-stats.vercel.app/api?username=GeneralScripter&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=GeneralScripter&layout=compact&theme=dark)
